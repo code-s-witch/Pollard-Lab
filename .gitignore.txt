@@ -25,3 +25,4 @@ _pycache_/
 *.rar
 *.tar
 *.zip
+*.png
